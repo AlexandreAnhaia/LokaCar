@@ -5,8 +5,8 @@ Motivação do projeto e Funcionalidades principais:
 
 Solução Geral:
  - Oferecer um serviço de locação de veículos que gerencie transações de locação de automóveis entre locador e locatário. Permitindo que qualquer um que tenha um carro e queira alugá-lo possa utilizar um serviço web para fazê-lo.
-Serviços oferecidos aos Clientes: disponibilizar/alugar um veículo por um tempo pré-determinado.
-Monetização do serviço: uma pequena taxa de manutenção é cobrada
+ - Serviços oferecidos aos Clientes: disponibilizar/alugar um veículo por um tempo pré-determinado.
+ - Monetização do serviço: uma pequena taxa de manutenção é cobrada
 
 Atividades Principais:
  - Para o locatário: Possibilidade de consultar uma lista de ofertas de carros e combinar a locação por meio de um sistema próximo de um e-commerce. O sistema cuidaria de toda a parte do contrato de locação, agendando o período de locação, o local de coleta e retorno do carro e processando o pagamento.
